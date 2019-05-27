@@ -1,2 +1,2 @@
 # GiraffeResume
-Personal resume placement.
+Personal resume repository.
